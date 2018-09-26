@@ -131,13 +131,21 @@ img::-moz-selection {
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
   color: #fec503;
 }
+#mainNav .navbar .navbar-brand {
+    max-height: 40px;
+    max-width: 30%;
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+}
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 90%;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
+  color: black;
+  font-weight: bold;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -158,6 +166,8 @@ img::-moz-selection {
     font-size: 1.75em;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
+    width: 50px;
+    height: auto;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
@@ -176,18 +186,21 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+    background: url("../img/architecture-bridge-fog-285283.jpg") no-repeat scroll center center;
+
+    background-size: cover;
 }
 
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
 }
-
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
 header.masthead .intro-text .intro-lead-in {
   font-size: 22px;
   font-style: italic;
