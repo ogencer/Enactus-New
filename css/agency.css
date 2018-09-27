@@ -181,6 +181,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #fed136;
+  background-color: transparent;
 }
 
 @media (min-width: 992px) {
