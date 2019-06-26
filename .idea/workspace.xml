@@ -110,8 +110,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="503" />
-          <entry key="html" value="459" />
+          <entry key="css" value="520" />
+          <entry key="html" value="464" />
           <entry key="js" value="85" />
           <entry key="scss" value="27" />
           <entry key="txt" value="259" />
@@ -119,8 +119,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="503" />
-          <entry key="HTML" value="459" />
+          <entry key="CSS" value="520" />
+          <entry key="HTML" value="464" />
           <entry key="JavaScript" value="85" />
           <entry key="PLAIN_TEXT" value="259" />
           <entry key="SCSS" value="27" />
@@ -133,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="432" column="43" selection-start-line="432" selection-start-column="43" selection-end-line="432" selection-end-column="43" />
+            <state relative-caret-position="621">
+              <caret line="430" column="34" lean-forward="true" selection-start-line="430" selection-start-column="34" selection-end-line="430" selection-end-column="34" />
               <folding>
                 <element signature="e#36476#36482#0" expanded="true" />
               </folding>
@@ -145,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="671" column="20" selection-start-line="671" selection-start-column="20" selection-end-line="671" selection-end-column="20" />
+            <state relative-caret-position="707">
+              <caret line="676" column="23" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -163,7 +163,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dropdo</find>
       <find>btn-dan</find>
       <find>btn</find>
       <find>mainnav</find>
@@ -192,6 +191,7 @@
       <find>muted</find>
       <find>muted-</find>
       <find>id</find>
+      <find>contact</find>
       <find>team</find>
     </findStrings>
   </component>
@@ -210,11 +210,11 @@
         <option value="$PROJECT_DIR$/scss/_footer.scss" />
         <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$PROJECT_DIR$/Store/Store.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Store/css/shop-homepage.css" />
         <option value="$PROJECT_DIR$/Store.html" />
         <option value="$PROJECT_DIR$/Store/vendor/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/agency.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -562,7 +562,7 @@
       <workItem from="1542692009112" duration="725000" />
       <workItem from="1543776180031" duration="611000" />
       <workItem from="1549492185484" duration="362000" />
-      <workItem from="1561505452987" duration="2272000" />
+      <workItem from="1561505452987" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="Customization added logo to navbar">
       <created>1537938300486</created>
@@ -715,7 +715,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60524000" />
+    <option name="totallyTimeSpent" value="60800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -989,15 +989,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="671" column="20" selection-start-line="671" selection-start-column="20" selection-end-line="671" selection-end-column="20" />
+        <state relative-caret-position="707">
+          <caret line="676" column="23" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="432" column="43" selection-start-line="432" selection-start-column="43" selection-end-line="432" selection-end-column="43" />
+        <state relative-caret-position="621">
+          <caret line="430" column="34" lean-forward="true" selection-start-line="430" selection-start-column="34" selection-end-line="430" selection-end-column="34" />
           <folding>
             <element signature="e#36476#36482#0" expanded="true" />
           </folding>

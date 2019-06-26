@@ -672,6 +672,10 @@ header.masthead .intro-text .intro-heading {
   text-align: justify;
 }
 
+.team-member p.text-muted-info {
+    text-align: center;
+}
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
