@@ -649,6 +649,10 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+.col-sm-4 {
+    align-content: center;
+}
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
