@@ -1,1 +1,3 @@
-theme: jekyll-theme-slate
+#Build Settings
+markdown: kramdown
+remote_theme: samesies/barber-jekyll
