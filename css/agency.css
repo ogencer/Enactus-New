@@ -267,7 +267,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../img/architecture-bridge-fog-285283.jpg") no-repeat scroll center center;
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../img/header.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 
