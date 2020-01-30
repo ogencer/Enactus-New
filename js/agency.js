@@ -14,6 +14,24 @@
       }
     }
   });
+    $('a.js-special-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
+        var modal = document.querySelector("#apply-popup");
+        modal.classList.toggle("closed");
+        if(false){
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html, body').animate({
+                        scrollTop: (target.offset().top - 54)
+                    }, 1000, "easeInOutExpo");
+                    return false;
+                }
+            }
+        }
+    });
+
+
 
     var acc = document.getElementsByClassName("accordion");
     var i;
