@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/sage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/sage_sq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/sage_sq.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/tls.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/tls_sq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -491,7 +484,7 @@
       <workItem from="1564158848418" duration="54000" />
       <workItem from="1565018728273" duration="7015000" />
       <workItem from="1580341644083" duration="7491000" />
-      <workItem from="1597122978668" duration="7456000" />
+      <workItem from="1597122978668" duration="8009000" />
     </task>
     <task id="LOCAL-00001" summary="Customization added logo to navbar">
       <created>1537938300486</created>
@@ -679,11 +672,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90192000" />
+    <option name="totallyTimeSpent" value="90745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.12012645" />
       <window_info id="Structure" order="1" sideWeight="0.5011013" side_tool="true" weight="0.24183351" />
