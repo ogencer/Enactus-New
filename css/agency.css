@@ -161,7 +161,7 @@ img::-moz-selection {
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color: black;
+  color: #515356;
   border: 0;
   background-color: #fed136;
   font-family: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -188,7 +188,7 @@ img::-moz-selection {
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: black;
+  color: #515356;
   font-weight: bold;
   font-family: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
