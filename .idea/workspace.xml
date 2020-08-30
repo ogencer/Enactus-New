@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -44,14 +43,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="16" />
-          <entry key="html" value="153" />
+          <entry key="html" value="264" />
           <entry key="txt" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="16" />
-          <entry key="HTML" value="153" />
+          <entry key="HTML" value="264" />
           <entry key="PLAIN_TEXT" value="136" />
         </counts>
       </usages-collector>
@@ -62,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="117" column="137" selection-start-line="117" selection-start-column="100" selection-end-line="117" selection-end-column="137" />
+            <state relative-caret-position="491">
+              <caret line="1054" column="35" lean-forward="true" selection-start-line="1054" selection-start-column="35" selection-end-line="1054" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -101,6 +100,8 @@
       <find>Shreya Gargya</find>
       <find>Shreya B</find>
       <find>info ni</find>
+      <find>info nig</find>
+      <find>stay</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -279,7 +280,7 @@
       <workItem from="1597475564654" duration="1073000" />
       <workItem from="1597477130423" duration="2803000" />
       <workItem from="1598203979851" duration="633000" />
-      <workItem from="1598800140513" duration="1381000" />
+      <workItem from="1598800140513" duration="2489000" />
     </task>
     <task id="LOCAL-00001" summary="Customization added logo to navbar">
       <created>1537938300486</created>
@@ -526,11 +527,18 @@
       <option name="project" value="LOCAL" />
       <updated>1598804292916</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Zoom link and password added">
+      <created>1598804411211</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1598804411211</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4817000" />
+    <option name="totallyTimeSpent" value="5925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -667,8 +675,8 @@
     <entry file="file://$PROJECT_DIR$/img/team/3.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="117" column="137" selection-start-line="117" selection-start-column="100" selection-end-line="117" selection-end-column="137" />
+        <state relative-caret-position="491">
+          <caret line="1054" column="35" lean-forward="true" selection-start-line="1054" selection-start-column="35" selection-end-line="1054" selection-end-column="35" />
         </state>
       </provider>
     </entry>
