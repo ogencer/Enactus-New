@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -43,15 +44,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="16" />
-          <entry key="html" value="264" />
-          <entry key="txt" value="136" />
+          <entry key="html" value="354" />
+          <entry key="txt" value="180" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="16" />
-          <entry key="HTML" value="264" />
-          <entry key="PLAIN_TEXT" value="136" />
+          <entry key="HTML" value="354" />
+          <entry key="PLAIN_TEXT" value="180" />
         </counts>
       </usages-collector>
     </session>
@@ -61,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="1054" column="35" lean-forward="true" selection-start-line="1054" selection-start-column="35" selection-end-line="1054" selection-end-column="35" />
+            <state relative-caret-position="431">
+              <caret line="1045" column="81" selection-start-line="1045" selection-start-column="81" selection-end-line="1045" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -280,7 +281,7 @@
       <workItem from="1597475564654" duration="1073000" />
       <workItem from="1597477130423" duration="2803000" />
       <workItem from="1598203979851" duration="633000" />
-      <workItem from="1598800140513" duration="2489000" />
+      <workItem from="1598800140513" duration="3260000" />
     </task>
     <task id="LOCAL-00001" summary="Customization added logo to navbar">
       <created>1537938300486</created>
@@ -534,11 +535,25 @@
       <option name="project" value="LOCAL" />
       <updated>1598804411211</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Project fellow applications">
+      <created>1598805594442</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1598805594442</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Project fellow applications and links added">
+      <created>1598805683727</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1598805683727</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5925000" />
+    <option name="totallyTimeSpent" value="6696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -635,7 +650,9 @@
     <MESSAGE value="blog removed" />
     <MESSAGE value="SHreya Gargya name change" />
     <MESSAGE value="Zoom link and password added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zoom link and password added" />
+    <MESSAGE value="Project fellow applications" />
+    <MESSAGE value="Project fellow applications and links added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project fellow applications and links added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="1" key="CommitChangelistDialog2" timestamp="1597476026283">
@@ -675,8 +692,8 @@
     <entry file="file://$PROJECT_DIR$/img/team/3.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="1054" column="35" lean-forward="true" selection-start-line="1054" selection-start-column="35" selection-end-line="1054" selection-end-column="35" />
+        <state relative-caret-position="431">
+          <caret line="1045" column="81" selection-start-line="1045" selection-start-column="81" selection-end-line="1045" selection-end-column="81" />
         </state>
       </provider>
     </entry>
