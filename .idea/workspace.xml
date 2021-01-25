@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/headersp21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
-    </list>
+    <list default="true" id="070978a3-70aa-4039-97a3-fe12e594a0e0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +16,7 @@
     <session id="97865791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -311,7 +307,7 @@
       <workItem from="1598914204445" duration="902000" />
       <workItem from="1600211793373" duration="1060000" />
       <workItem from="1602639429141" duration="1212000" />
-      <workItem from="1611573593232" duration="3081000" />
+      <workItem from="1611573593232" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="Customization added logo to navbar">
       <created>1537938300486</created>
@@ -618,11 +614,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13675000" />
+    <option name="totallyTimeSpent" value="13702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28925183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
